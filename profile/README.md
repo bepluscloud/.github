@@ -2,27 +2,33 @@
 
 ![beplus.cloud](https://repository-images.githubusercontent.com/609477507/cb625c02-8019-40a5-b337-e6a18c059f32)
 
-I'm [@igorlamos](https://github.com/igorlamos), and I'm excited to introduce you to [beplus.cloud](https://beplus.cloud) – the Build Ecosystem that I've created to help developers and companies bring their software product visions to life.
+I'm [@igorlamos](https://github.com/igorlamos), the creator of [beplus.cloud](https://beplus.cloud) – the Build Ecosystem designed to help developers and companies bring their software product visions to life.
 
-Years of helping companies build successful products showed me the need for a more approachable and seamless product development solution. That's why I created **beplus.cloud** – a platform that lets you focus on what you do best: **developing your product**.
+Years of helping companies build successful products showed me the need for a more approachable and seamless product development solution. That's why I created **beplus.cloud** – the Build Ecosystem that lets you focus on what you do best: **developing your product**.
 
-beplus.cloud gives you the tools and resources you need to overcome the challenges of software product development. Streamline your workflow and unleash your creativity to create something truly unique and valuable.
+beplus.cloud gives you the tools and resources you need to overcome the challenges you might face when creating any kind of software product. Streamline your workflow and unleash your creativity to create something truly unique and valuable.
 
-I believe that every software product deserves a chance to succeed, and that's why I'm committed to providing you with the support and guidance you need to make it happen. Whether you're starting from scratch or looking to take your existing product to the next level, beplus.cloud is here to help.
+I believe that every software product deserves a chance to succeed, and that's why I'm committed to serve and provide you with the support and guidance you may need to make it happen. Whether you're just starting out or looking to take your existing product to the next level, beplus.cloud is here to help.
 
 ## Where to start? 🚀
 
-I believe that creating the MVP and validating your idea should be simple and accessible. That's why I've created a build ecosystem that makes it easy to build your product the right way from the start. **beplus.cloud Open Source** tools allow you to create your infrastructure and apps quickly and deploy them to production in almost no time. 
+Creating the MVP and validating your idea should be simple and accessible. That's why I've created a Build Ecosystem that makes it easy to build your product the right way from the start. **beplus.cloud Open Source** tools allow you to create your infrastructure and apps quickly and deploy them to production in almost no time. 
 
 Do you want to give it a try? So let's dive in:
-- [beplus CLI](https://github.com/beplus/cli)
-- [beplus.cloud Buildpacks](https://github.com/bepluscloud/buildpacks)
-- [beplus.cloud Templates](https://github.com/bepluscloud/templates)
-- [beplus.cloud Provisioning](https://github.com/bepluscloud/provisioning)
+- [beplus CLI](https://github.com/beplus/cli) – A command line tool for managing not only beplus.cloud.
+- [beplus.cloud Buildpacks](https://github.com/bepluscloud/buildpacks) – Easily deploy your apps to the cloud.
+- [beplus.cloud Templates](https://github.com/bepluscloud/templates) – Start building your product with opinionated templates.
+- [beplus.cloud Provisioning](#provisioning) – _Coming soon!_
 
-## But there's much more ✨
+That's just the beginning.
 
-`@todo`
+## There's so much more ✨
+
+For example a beautiful UI you can manage everything from, pre-made infrastructure and application code you can use immediately, modules to easily create features like authentication or push notifications, and many integrations to make everything even easier.
+
+Whether you need out-of-box CI/CD, versioned configuration for your applications and resources, ephemeral environments for AWS including preview apps, easy cross-account AWS management, SaaS features with tenant isolation and management, powerful mobile deployment pipeline ... and much more – we've got you covered.
+
+> **Note**: For now, it works perfectly with TypeScript projects (React, Remix, Next.js, Serverless, React Native, AWS CDK, etc.), but the vision extends far beyond that.
 
 ## Appendix 👓
 
