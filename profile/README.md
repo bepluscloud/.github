@@ -33,3 +33,9 @@ Whether you need out-of-box CI/CD, versioned configuration for your applications
 ## Appendix 👓
 
 See what's next on the [public roadmap](https://github.com/orgs/bepluscloud/projects/1) 🙌 and [let us know](https://github.com/orgs/bepluscloud/discussions) if you have any suggestions 🙇‍♂️.
+
+## Also check 👀
+
+- [@beplus](https://github.com/beplus)
+- [@beplustraining](https://github.com/beplustrainingd)
+- [@igorlamos](https://github.com/igorlamos)
