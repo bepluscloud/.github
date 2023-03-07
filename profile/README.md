@@ -2,7 +2,7 @@
 
 ![beplus.cloud](https://repository-images.githubusercontent.com/609477507/cb625c02-8019-40a5-b337-e6a18c059f32)
 
-I'm [@igorlamos](https://github.com/igorlamos), the creator of [beplus.cloud](https://beplus.cloud) – the Build Ecosystem designed to help developers and companies bring their software product visions to life.
+I'm [@igorlamos](https://github.com/igorlamos), the creator of [beplus.cloud](https://beplus.cloud) – the _Build Ecosystem_ designed to help developers and companies bring their software product visions to life.
 
 Years of helping companies build successful products showed me the need for a more approachable and seamless product development solution. That's why I created **beplus.cloud** – the Build Ecosystem that lets you focus on what you do best: **developing your product**.
 
