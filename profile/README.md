@@ -37,5 +37,5 @@ See what's next on the [public roadmap](https://github.com/orgs/bepluscloud/proj
 ## Also check 👀
 
 - [@beplus](https://github.com/beplus)
-- [@beplustraining](https://github.com/beplustrainingd)
+- [@beplustraining](https://github.com/beplustraining)
 - [@igorlamos](https://github.com/igorlamos)
